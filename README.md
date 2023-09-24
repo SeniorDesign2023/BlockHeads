@@ -1,7 +1,7 @@
 # BlockHeads
 repo for the BlockHeads group.
 
-Members 
+Members
 Megan Steeves, Selma Samet, Kellen Mentock, and Tamara Linse
 
 Project 
