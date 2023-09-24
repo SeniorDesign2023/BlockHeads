@@ -1,6 +1,9 @@
 # BlockHeads
 repo for the BlockHeads group.
 
-Members: Megan Steeves, Selma Samet, Kellen Mentock, and Tamara Linse
+Members : Megan Steeves, Selma Samet, Kellen Mentock, and Tamara Linse
 
-Project: Identity and Credentials Manager
+Project 
+ 
+CredHub : The Secure Identity and Credentials Mmanagerment or CredHub : Protecting Your Credentials 
+
