@@ -32,8 +32,10 @@ iii.	Do you need help? Can mentor help or external help is needed?
 5.	Changes/deviations: The only change from initial pitch document is that we will be developing an Android application instead of a website since we believe that will make our product more user-friendly. 
 
 6.	Confidence:   
-We are confident in our product. 
+We are confident in our product.
 
-7.	Group dynamics:  
+(Please see the WyoCourses for meeting notes that further detail. https://uwyo.instructure.com/groups/184674/files?preview=79305198 )
+
+8.	Group dynamics:  
 Our team is working great together. We are actively seeking solutions and ideas for our product and each member is taking actions to fulfill their role. 
 
