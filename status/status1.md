@@ -1,6 +1,6 @@
-Status Update 
+Status Update #1 
 Name: BlockHeads
-CredHub: Protecting Your Credentials.
+CredHub: Protecting Your Credentials
 
 
 1. Recap: 
@@ -26,13 +26,13 @@ i. Other things tried:
 *    n/a
 4. Challenges:
 i. Describe the challenges:
-* Since we are just starting our project, we’re developing our ideas, so there are plenty of challenges. What functionality do we want? We need really good security, so how will we implement that? Who will be in charge of what? What resources do we have? Details on how big of a part will Blockchain play and in what areas?
+* Since we are just starting our project, weâ€™re developing our ideas, so there are plenty of challenges. What functionality do we want? We need really good security, so how will we implement that? Who will be in charge of what? What resources do we have? Details on how big of a part will Blockchain play and in what areas?
 ii. Did you overcome them or are there challenges left?
 * We are talking through these challenges as we develop our ideas and trying to find solutions for them as the project progresses. 
 iii. Do you need help? Can mentor help or external help is needed?
 * We have you and Steve Lupien as our mentors at the moment. We may need other mentors as we get further in our project.
 
-5. Changes/deviations:                                                                                                                                We don’t really have any changes from the pitch document. We are just adding more details and authentication/verification measures to ensure security. 
+5. Changes/deviations:                                                                                                                                We donâ€™t really have any changes from the pitch document. We are just adding more details and authentication/verification measures to ensure security. 
 6. Confidence:   
 We are confident that we will be able to develop and implement this project.
 7. Group dynamics:  
@@ -51,7 +51,7 @@ Selma Samet
 Kellen Mentock
 Tamara Linse
 
-Project: CredHub – Protecting Your Credentials
+Project: CredHub â€“ Protecting Your Credentials
 
 
 Meeting: 10.3.2023, Coe 264 - Selma, Megan, Kellen, and Tamara
@@ -59,27 +59,27 @@ Meeting: 10.3.2023, Coe 264 - Selma, Megan, Kellen, and Tamara
 Summary
 * We addressed the great questions that came up in class from other members of the class
 * We talked a lot about processes for security
-o Megan came up with idea to solve our initial login problem – When someone initially logs in, they take a photo of themselves and their id.  Facial recognition plus validating their ID (e.g., quick API validation with driver’s license through DMV) will allow them to create an account
+o Megan came up with idea to solve our initial login problem â€“ When someone initially logs in, they take a photo of themselves and their id.  Facial recognition plus validating their ID (e.g., quick API validation with driverâ€™s license through DMV) will allow them to create an account
 o Not sure we will be able to get facial recognition working in time, but we had some suggestions for open-source facial recognition 
-o User’s login will automatically log them out after a certain time period (4 days? 2 weeks?)
+o Userâ€™s login will automatically log them out after a certain time period (4 days? 2 weeks?)
 o Once a browser is logged in, they will be able to get back in with a pin
 o They will only be able to login on two trusted devices (the independent pages send to other people to show ID will not count in this)
 o If they forget their pin but they are logged in, they can reenter their login info to create another pin
 o If they forget their login information, we will need to have password recovery option
 o We talked about a number of things for password recovery and login
 o We have the options of having them enter their phone number, an email address, and a recovery phrase
-o They won’t need both phone number and email unless they want it
+o They wonâ€™t need both phone number and email unless they want it
 o A number of us were in favor of using a recovery phrase as first-line login, with the possibility of not making them enter a phone number or email
 o However, in order to make the app work, we most likely need at least one piece of contact information, most likely (for 2FA)
-o Users may need a trusted third party or emergency contact to be able to access this, or one partner may be the one in charge of both partners’ online data—therefore, we need a way to have a trusted contact
+o Users may need a trusted third party or emergency contact to be able to access this, or one partner may be the one in charge of both partnersâ€™ online dataâ€”therefore, we need a way to have a trusted contact
 o We could do trusted and/or emergency contact through a smart contract with asymmetric cryptography
 o We need to talk through all this with Jim
 * Once again, we are assuming we are creating a website (not a phone app, tho that would be the most useful to user)
 * Multiple ways of doing things is good
 * We decided to limit the scope of the IDs we will test, with the understanding that with each agency would have to establish a relationship. We will focus on one at first.
 o We will focus on credentials with UW
-o If possible, we may add Wyoming Driver’s License
-o Probably won’t get to it but also a national ID such as Passport
+o If possible, we may add Wyoming Driverâ€™s License
+o Probably wonâ€™t get to it but also a national ID such as Passport
 * We will need 2FA
 * We will have multiple ways to show an ID to someone
 o It will have a time out
@@ -90,9 +90,9 @@ o Other ways to share an ID may be text or email with link that goes to that web
 * The home page will have buttons to each ID, and after button press, the user will need to enter a pin (even tho they are logged in)
 * We need to further figure out how to just show the info they need and not expose the whole ID unless necessary
 * We will test, for example, at liquor store with valid (of age) ID and invalid (underage) ID
-* Because those wanting to see the ID won’t know if this is legit, we will have a button on the viewing page they can press that will go to the ID agency web page, and we would ask the agency to put up a page with a brief description of CredHub and saying that it’s legit
-* We’ll start with UW and talk to Registrar’s Office (Tamara will email Lane, the Registrar)
-* Selma said she’d like to do the UI/UX portion
+* Because those wanting to see the ID wonâ€™t know if this is legit, we will have a button on the viewing page they can press that will go to the ID agency web page, and we would ask the agency to put up a page with a brief description of CredHub and saying that itâ€™s legit
+* Weâ€™ll start with UW and talk to Registrarâ€™s Office (Tamara will email Lane, the Registrar)
+* Selma said sheâ€™d like to do the UI/UX portion
 * Megan has been talking about the project with Steve Lupien for ideas
 * Kellen has been looking into Truffle boxes
 * We will set up reminders for updates
@@ -102,7 +102,7 @@ Action Items
 * We will meet with Jim next class period (10.10) in our classroom in the EERB
 * Selma will begin our Status Update #1 and have it to us by Sunday, then the rest of us will go through and edit and add so that we can turn it in on Tuesday (10.10)
 * Tamara will upload these notes
-* Tamara will email the Registrar’s Office
+* Tamara will email the Registrarâ€™s Office
 * We will continue to develop and parse out responsibility for parts of the project
 
 
@@ -110,9 +110,9 @@ Meeting. 9.19.2023, Coe 310 - Selma, Megan, Kellen, and Tamara
 
 Summary
 * Our project:
-o CredHub – Protecting your credentials 
-o Tagline – You’ve got cred
-o Group name – BlockHeads
+o CredHub â€“ Protecting your credentials 
+o Tagline â€“ Youâ€™ve got cred
+o Group name â€“ BlockHeads
 o We will develop a web application (dApp) (mobile interface reserved for future due to limited development time)
 * Everyone has their logins to the group on WyoCourses, Discord group, and GitHub
 * Tamara and Selma had started the pitch document before the meeting
@@ -120,7 +120,7 @@ o We will develop a web application (dApp) (mobile interface reserved for future
 * Jim is our advisor
 * For now, all we need is a server
 * Selma proposed our name be CredHub - Protecting your credentials
-* Tamara proposed the tagline You’ve got cred
+* Tamara proposed the tagline Youâ€™ve got cred
 * Megan showed us an example app from Colorado state government that holds credentials that we can partially use as a model
 * Kellen suggested we not only have a blockchain to store credentials but also we use a smart contract to verify with official organizations
 * Types of IDs/credentials: social security number, birth certificate, passport, drivers license/ID card, degrees, marriage license, etc.
@@ -141,7 +141,7 @@ Action Items
 * We will meet with Jim sometime in the next two weeks
 * We are setting up additional meeting times (during class time?)
 * We will complete status update #1 and submit by 10.10
-* Future topics – narrow in on functionality, tech stack, and who is doing what
+* Future topics â€“ narrow in on functionality, tech stack, and who is doing what
 
 
 Initial Meeting and Followup on Discord, 9.12.2023 - Megan, Selma, Kellen, and Tamara
@@ -153,9 +153,9 @@ Summary
 * Megan is in contact with her prof Steve Lupien, who can help us or connect us with people as necessary
 
 Action Items
-* Because we’ve formed our group, we will not go to class 9.19.2023
-* Instead, we’ll meet in Coe Library during that time (Tues., 9.19.2023, from 4-5, in Coe 263) to talk about the project and create the pitch document
-* We all will bring ideas and what aspect we’re good at and what we would like to work on
+* Because weâ€™ve formed our group, we will not go to class 9.19.2023
+* Instead, weâ€™ll meet in Coe Library during that time (Tues., 9.19.2023, from 4-5, in Coe 263) to talk about the project and create the pitch document
+* We all will bring ideas and what aspect weâ€™re good at and what we would like to work on
 * Selma is reserving the room in Coe
 * Tamara is taking meeting notes
 
