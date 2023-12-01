@@ -34,8 +34,8 @@ iii.	Do you need help? Can mentor help or external help is needed?
 6.	Confidence:   
 We are confident in our product.
 
-(Please see the WyoCourses for meeting notes that further detail. https://uwyo.instructure.com/groups/184674/files?preview=79305198 )
+7.	Group dynamics:  
+Our team is working great together. We are actively seeking solutions and ideas for our product and each member is taking actions to fulfill their role.
 
-8.	Group dynamics:  
-Our team is working great together. We are actively seeking solutions and ideas for our product and each member is taking actions to fulfill their role. 
+(Please see the WyoCourses for meeting notes that further detail. https://uwyo.instructure.com/groups/184674/files?preview=79305198 )
 
