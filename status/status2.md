@@ -1,3 +1,7 @@
+Status Update #2 
+Name: BlockHeads
+CredHub: Protecting Your Credentials
+
 
 1.	Recap: 
 Over the past few weeks, our group has successfully outlined our minimum viable product and distributed responsibilities among team members according to their interests and strengths. We conducted detailed research in each of the key functional areas for our product and are establishing the validation and verification processes for driver’s licenses and diplomas with both the State of Wyoming and University of Wyoming. We have decided on the server, programming languages, and functionality of our product. Our team is actively researching and developing our minimum viable product.  Please see the attached meeting notes for details.
