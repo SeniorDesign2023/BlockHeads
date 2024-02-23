@@ -9,12 +9,12 @@ Over the past couple of weeks, our group has been continuing working with AWS se
 
 2. Tasks completed:
    
-A. Description of tasks completed:
+A. Description of tasks completed:  
 
- a. We have created our databases.
- b. We have started working on our mock API.
- c. We are exploring options for Blockchain smart contracts.
- d. We researched Google play store regulations for app publishing.
+a.  We have created our databases.
+b.  We have started working on our mock API.
+c.  We are exploring options for Blockchain smart contracts.
+d.  We researched Google play store regulations for app publishing.
     
 B. Your choice of quantifiable metric:
 
