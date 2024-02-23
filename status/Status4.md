@@ -21,7 +21,8 @@ B. Your choice of quantifiable metric:
 1. The group has finalized all programming languages needed.
 2. Planning on meeting once to twice a week for a couple hours to work together.
 3. Basic Android app development is almost done.
-4. Successes:
+   
+3. Successes:
 
  i. Group accomplishments:
 
