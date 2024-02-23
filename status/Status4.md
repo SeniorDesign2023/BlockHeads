@@ -18,7 +18,7 @@ B. Your choice of quantifiable metric:
     2. Planning on meeting once to twice a week for a couple hours to work together.
     3. Basic Android app development is almost done.
 3. Successes:
-i. Group accomplishments:
+ i. Group accomplishments:
 
 - We finalized our app logo.
 - We were able to solve our previous issues with AWS server.
@@ -26,32 +26,32 @@ i. Group accomplishments:
 - We are almost done with designing our Android app and running it.
 - We figured out the requirements needed for authentication measures and how we want to go about them.
 
-ii. Successful solutions:
+ ii. Successful solutions:
 
 - We terminated the previous server with instances and tried again to clear memory space.
 
-iii. Other things tried:
+ iii. Other things tried:
 
 - n/a
 
 4. Challenges:
-i. Describe the challenges:
+ i. Describe the challenges:
 
 - The system is only allowing one connection to the database, so we are navigating that. Figuring out what needs to be on the server exactly and testing it is another challenge. Also, we are trying to figure out the best way to go about Blockchain smart contracts.
 
-ii. Describe how you overcame them:
+ ii. Describe how you overcame them:
 
 - We are still doing some research about Blockchain smart contract approaches and discussing the server.
 - We are exploring using a web server behind the database.
 
-iii. What challenges are still left?
+ iii. What challenges are still left?
 
 - Finding the best approach from smart contracts.
 - Making sure we don’t overload our databases.
 - Figuring out what needs to be on the server exactly.
 - Implementing the authentication and security measures.
 
-iv. What do you need help with? How can a mentor help?
+ iv. What do you need help with? How can a mentor help?
 
 - We have received great advice from our mentors and no help is needed now.
 
