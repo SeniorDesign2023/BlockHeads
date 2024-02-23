@@ -8,6 +8,7 @@ Selma Samet, Tamara Linse, Megan Steeves, Kellen Mentock
 Over the past couple of weeks, our group has been continuing working with AWS server. We are almost done with the basic design process of the Android app. We have started working on our databases and figured out what kind of data we needed and created them through MySQL. Moreover, we have been making progress with creating our API and figuring out different ways to implement smart contracts within our app.
 
 2. Tasks completed:
+   
 A. Description of tasks completed:
     1. We have created our databases.
     2. We have started working on our mock API.
@@ -17,7 +18,8 @@ B. Your choice of quantifiable metric:
     1. The group has finalized all programming languages needed.
     2. Planning on meeting once to twice a week for a couple hours to work together.
     3. Basic Android app development is almost done.
-3. Successes:
+4. Successes:
+
  i. Group accomplishments:
 
 - We finalized our app logo.
@@ -35,6 +37,7 @@ B. Your choice of quantifiable metric:
 - n/a
 
 4. Challenges:
+   
  i. Describe the challenges:
 
 - The system is only allowing one connection to the database, so we are navigating that. Figuring out what needs to be on the server exactly and testing it is another challenge. Also, we are trying to figure out the best way to go about Blockchain smart contracts.
